@@ -1,0 +1,22 @@
+# init
+wheel
+pip>=20
+setuptools>=45
+# lint
+pylint
+# test
+pytest
+# type
+mypy
+# sort
+isort
+# cover
+coverage
+# format
+black
+# publish
+twine
+# interact
+ipython
+# document
+pdoc

@@ -1,0 +1,10 @@
+venv/
+dist/
+build/
+.cache/
+.coverage
+*.py[cdo]
+*.egg-info/
+__pycache__/
+.mypy_cache/
+.pytest_cache/
