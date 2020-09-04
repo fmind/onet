@@ -1,8 +1,8 @@
 venv/
 dist/
 build/
+.idea/
 .cache/
-.coverage
 *.py[cdo]
 *.egg-info/
 __pycache__/
